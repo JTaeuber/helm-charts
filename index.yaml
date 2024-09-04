@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  hard-chart:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-09-04T11:16:23.040996729+02:00"
+    description: A hard coded Helm chart for Kubernetes
+    digest: b277425cdbf83e87569ce9ac418c8076e9cd250bad3807db1cb4637ca8bf6e76
+    name: hard-chart
+    type: application
+    urls:
+    - https://JTaeuber.github.io/helm-charts/hard-chart-0.1.0.tgz
+    version: 0.1.0
+  value-chart:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-09-04T11:16:23.041192917+02:00"
+    description: A Helm chart with values for Kubernetes
+    digest: cb1325f49abaf13059cc8de599ca346472ce8ba8cc492c7f1710758dfffdb4e8
+    name: value-chart
+    type: application
+    urls:
+    - https://JTaeuber.github.io/helm-charts/value-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-04T11:16:23.040611567+02:00"
