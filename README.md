@@ -19,5 +19,5 @@ Content:
 Credits:
 --------
 
-inspired by [@mattiaperi](https://medium.com/@mattiaperi/create-a-public-helm-chart-repository-with-github-pages-49b180dbb417)
+Inspired by [@mattiaperi](https://medium.com/@mattiaperi/create-a-public-helm-chart-repository-with-github-pages-49b180dbb417)
  and [eumel8](https://github.com/eumel8)
