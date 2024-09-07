@@ -5,8 +5,20 @@ on:
     types: [new-helm-chart-version]
 
 jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    permissions: write-all
+
+    steps:
+      - name: Delete deployment
+        uses: strumwolf/delete-deployment-environment@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          environment: github-pages
+          onlyRemoveDeployments: true
   update-charts:
     runs-on: ubuntu-latest
+    needs: cleanup
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
