@@ -2,8 +2,20 @@ apiVersion: v1
 entries:
   test-chart:
   - apiVersion: v2
+    appVersion: 3.0.0
+    created: "2024-09-07T23:21:43.838414118Z"
+    description: A Helm chart for testing purposes in Kubernetes
+    digest: 736df0c5ba068e6325c74995df06a08f4c3b7e1a763e5d6744c34bc32570ec3c
+    keywords:
+    - testing
+    name: test-chart
+    type: application
+    urls:
+    - https://jtaeuber.github.io/helm-charts/test-chart/test-chart-3.0.0.tgz
+    version: 3.0.0
+  - apiVersion: v2
     appVersion: 2.0.0
-    created: "2024-09-06T23:31:08.478856998Z"
+    created: "2024-09-07T23:21:43.838146082Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 04ea4804fa1349a82a2a7566df7ddfc418b800b17e92f08fea53f2bbe3097197
     keywords:
@@ -15,7 +27,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-09-06T23:31:08.478617217Z"
+    created: "2024-09-07T23:21:43.837871593Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: ebea3fdd1ac71db2447ed2668a4b237f0369535e318ec01458c1de241e641d85
     keywords:
@@ -25,4 +37,4 @@ entries:
     urls:
     - https://jtaeuber.github.io/helm-charts/test-chart/test-chart-1.0.0.tgz
     version: 1.0.0
-generated: "2024-09-06T23:31:08.478232334Z"
+generated: "2024-09-07T23:21:43.837477419Z"
