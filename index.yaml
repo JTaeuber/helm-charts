@@ -2,8 +2,20 @@ apiVersion: v1
 entries:
   test-chart:
   - apiVersion: v2
+    appVersion: 8.0.0
+    created: "2024-09-09T09:55:19.771165939Z"
+    description: A Helm chart for testing purposes in Kubernetes
+    digest: 3e1c61a1d0ef6a616b4862e5e9fdd0830922ee383760138b57a9092bb12284ad
+    keywords:
+    - testing
+    name: test-chart
+    type: application
+    urls:
+    - https://jtaeuber.github.io/helm-charts/test-chart/test-chart-8.0.0.tgz
+    version: 8.0.0
+  - apiVersion: v2
     appVersion: 7.0.0
-    created: "2024-09-09T09:32:44.129639606Z"
+    created: "2024-09-09T09:55:19.769414245Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: f0cbb302ebedad820e69f1c747893267bc13a68b425485a1989dc4f26948618b
     keywords:
@@ -15,7 +27,7 @@ entries:
     version: 7.0.0
   - apiVersion: v2
     appVersion: 6.0.0
-    created: "2024-09-09T09:32:44.129414977Z"
+    created: "2024-09-09T09:55:19.769021259Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 7da0142adff8d588fcaa56f2cce9230c6692c05fd5fd670361fe2f9890922e55
     keywords:
@@ -27,7 +39,7 @@ entries:
     version: 6.0.0
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2024-09-09T09:32:44.12919676Z"
+    created: "2024-09-09T09:55:19.768795295Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 736df0c5ba068e6325c74995df06a08f4c3b7e1a763e5d6744c34bc32570ec3c
     keywords:
@@ -39,7 +51,7 @@ entries:
     version: 3.0.0
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2024-09-09T09:32:44.128781044Z"
+    created: "2024-09-09T09:55:19.768560776Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 04ea4804fa1349a82a2a7566df7ddfc418b800b17e92f08fea53f2bbe3097197
     keywords:
@@ -51,7 +63,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-09-09T09:32:44.128524816Z"
+    created: "2024-09-09T09:55:19.768329452Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: ebea3fdd1ac71db2447ed2668a4b237f0369535e318ec01458c1de241e641d85
     keywords:
@@ -61,4 +73,4 @@ entries:
     urls:
     - https://jtaeuber.github.io/helm-charts/test-chart/test-chart-1.0.0.tgz
     version: 1.0.0
-generated: "2024-09-09T09:32:44.128092921Z"
+generated: "2024-09-09T09:55:19.767757059Z"
