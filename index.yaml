@@ -3,7 +3,7 @@ entries:
   test-chart:
   - apiVersion: v2
     appVersion: 9.0.0
-    created: "2024-09-10T08:36:04.797443472Z"
+    created: "2024-09-10T09:24:08.303916591Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 9df3d3705e05047c7e80232aeef55c1e0b7bd241d7242c3ac0bb07e203f10150
     keywords:
@@ -15,7 +15,7 @@ entries:
     version: 9.0.0
   - apiVersion: v2
     appVersion: 8.0.0
-    created: "2024-09-10T08:36:04.797234109Z"
+    created: "2024-09-10T09:24:08.303669752Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 3e1c61a1d0ef6a616b4862e5e9fdd0830922ee383760138b57a9092bb12284ad
     keywords:
@@ -27,7 +27,7 @@ entries:
     version: 8.0.0
   - apiVersion: v2
     appVersion: 7.0.0
-    created: "2024-09-10T08:36:04.797019266Z"
+    created: "2024-09-10T09:24:08.303427682Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: f0cbb302ebedad820e69f1c747893267bc13a68b425485a1989dc4f26948618b
     keywords:
@@ -39,7 +39,7 @@ entries:
     version: 7.0.0
   - apiVersion: v2
     appVersion: 6.0.0
-    created: "2024-09-10T08:36:04.796810344Z"
+    created: "2024-09-10T09:24:08.303194318Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 7da0142adff8d588fcaa56f2cce9230c6692c05fd5fd670361fe2f9890922e55
     keywords:
@@ -51,7 +51,7 @@ entries:
     version: 6.0.0
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2024-09-10T08:36:04.796585342Z"
+    created: "2024-09-10T09:24:08.302907916Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 736df0c5ba068e6325c74995df06a08f4c3b7e1a763e5d6744c34bc32570ec3c
     keywords:
@@ -63,7 +63,7 @@ entries:
     version: 3.0.0
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2024-09-10T08:36:04.796349239Z"
+    created: "2024-09-10T09:24:08.302316156Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 04ea4804fa1349a82a2a7566df7ddfc418b800b17e92f08fea53f2bbe3097197
     keywords:
@@ -74,8 +74,20 @@ entries:
     - https://jtaeuber.github.io/helm-charts/test-chart/test-chart-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v2
+    appVersion: 1.0.5
+    created: "2024-09-10T09:24:08.30164608Z"
+    description: A Helm chart for testing purposes in Kubernetes
+    digest: 38ad84a1cc4c4bdf72fce50285d4b28a094d3474863466ab6df429e12d2e26e1
+    keywords:
+    - testing
+    name: test-chart
+    type: application
+    urls:
+    - https://jtaeuber.github.io/helm-charts/test-chart/test-chart-1.0.5.tgz
+    version: 1.0.5
+  - apiVersion: v2
     appVersion: 1.0.3
-    created: "2024-09-10T08:36:04.796102096Z"
+    created: "2024-09-10T09:24:08.301415101Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: d1247d3054e42e8dc9b1e39e762b4bcc60590c880c94500d68bab23ead06e1b9
     keywords:
@@ -87,7 +99,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2024-09-10T08:36:04.795835185Z"
+    created: "2024-09-10T09:24:08.301176698Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: e8f5a197ccd9c8bccd7a3c07d790c73feb66b3d898f0602fd0051aebcf1b5676
     keywords:
@@ -99,7 +111,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2024-09-10T08:36:04.795594374Z"
+    created: "2024-09-10T09:24:08.300942202Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: df40c720b0dbb5288aee5fa445c6db98755119883cf24f068f2e1fa44dac73e2
     keywords:
@@ -111,7 +123,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-09-10T08:36:04.795333164Z"
+    created: "2024-09-10T09:24:08.300709159Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: ebea3fdd1ac71db2447ed2668a4b237f0369535e318ec01458c1de241e641d85
     keywords:
@@ -121,4 +133,4 @@ entries:
     urls:
     - https://jtaeuber.github.io/helm-charts/test-chart/test-chart-1.0.0.tgz
     version: 1.0.0
-generated: "2024-09-10T08:36:04.794906613Z"
+generated: "2024-09-10T09:24:08.300314645Z"
