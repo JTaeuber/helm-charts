@@ -8,7 +8,7 @@ Usage:
 Add the repo via the Github page:
 
 ```bash
-helm repo add github-charts --url https://jtaeuber.github.io/helm-charts/
+helm repo add github-charts https://jtaeuber.github.io/helm-charts/
 ```
 
 Content:
