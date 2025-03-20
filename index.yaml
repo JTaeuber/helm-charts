@@ -2,8 +2,21 @@ apiVersion: v1
 entries:
   test-chart:
   - apiVersion: v2
+    appVersion: 3.0.1
+    created: "2025-03-20T15:45:04.125037233Z"
+    description: A Helm chart for testing purposes in Kubernetes
+    digest: 5726a9470e777ac407e9d2bd10d2ac4696480a69ee08e766b066a54f21d9aaf4
+    keywords:
+    - testing
+    - helm-chart
+    name: test-chart
+    type: application
+    urls:
+    - https://jtaeuber.github.io/helm-charts/test-chart/test-chart-3.0.1.tgz
+    version: 3.0.1
+  - apiVersion: v2
     appVersion: 3.0.0
-    created: "2025-03-20T15:12:20.849313578Z"
+    created: "2025-03-20T15:45:04.124782288Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 1fa755002ec74ae54d1a2574124dfcc26bea4b1d7bade540defbd988c7da0c94
     keywords:
@@ -16,7 +29,7 @@ entries:
     version: 3.0.0
   - apiVersion: v2
     appVersion: 2.0.6
-    created: "2025-03-20T15:12:20.849099608Z"
+    created: "2025-03-20T15:45:04.124521962Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: e0ac261989428e6c6b77f5283c94b726c029cfdb18c149012fdbec482f7344ad
     keywords:
@@ -29,7 +42,7 @@ entries:
     version: 2.0.6
   - apiVersion: v2
     appVersion: dev
-    created: "2025-03-20T15:12:20.848862726Z"
+    created: "2025-03-20T15:45:04.124286262Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 24f874bc8cef2c9a134aff6ee68a6500f62575139eed919a5d7c33473c639c6e
     keywords:
@@ -42,7 +55,7 @@ entries:
     version: 2.0.6-dev
   - apiVersion: v2
     appVersion: 2.0.5
-    created: "2025-03-20T15:12:20.848611708Z"
+    created: "2025-03-20T15:45:04.124059198Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: a02d68b3e68a72b2d2668a25125163d43a9681bda33346570ba8753c70af635c
     keywords:
@@ -55,7 +68,7 @@ entries:
     version: 2.0.5
   - apiVersion: v2
     appVersion: dev
-    created: "2025-03-20T15:12:20.848382711Z"
+    created: "2025-03-20T15:45:04.123801748Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 19920eb6019e561ced77b6be0c1c3029aa1607040caaba1650343f08cc2c61da
     keywords:
@@ -68,7 +81,7 @@ entries:
     version: 1.1.1-dev
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2025-03-20T15:12:20.848144968Z"
+    created: "2025-03-20T15:45:04.123572751Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 871729202f9c4882e008cf55987150781827b121446506f49ae808c332fc5d98
     keywords:
@@ -81,7 +94,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: dev
-    created: "2025-03-20T15:12:20.847903577Z"
+    created: "2025-03-20T15:45:04.123345126Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 61ada4b8eff0109a540839b08cdcf2dba2ecf9eb7908a89b3b1cfe1658031ec8
     keywords:
@@ -94,7 +107,7 @@ entries:
     version: 1.1.0-dev
   - apiVersion: v2
     appVersion: 1.0.9
-    created: "2025-03-20T15:12:20.847628574Z"
+    created: "2025-03-20T15:45:04.123115087Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 6a2ed4026b5bf09b7a47a5fd444248343a069a50cc83a5b8a285080a0b758046
     keywords:
@@ -107,7 +120,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: 1.0.8
-    created: "2025-03-20T15:12:20.847390971Z"
+    created: "2025-03-20T15:45:04.122859209Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 3334eabe81270a1ad7f8103695ff4c4b27fc2be38b696e8d4f2fb91e281008eb
     keywords:
@@ -120,7 +133,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: 1.0.7
-    created: "2025-03-20T15:12:20.84713308Z"
+    created: "2025-03-20T15:45:04.122625132Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 58257dff29744a922e1a76c66d78a5120553c7a4c403bbb3b654228b1b7bcfed
     keywords:
@@ -134,7 +147,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 1.0.6
-    created: "2025-03-20T15:12:20.846836907Z"
+    created: "2025-03-20T15:45:04.12238247Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 5359f632b6c885a172c9b4d2a8429fb49d3c65add51930438ece9ebf6be064af
     keywords:
@@ -148,7 +161,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2025-03-20T15:12:20.845923907Z"
+    created: "2025-03-20T15:45:04.122144576Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 1580997ab7cef204e3fde6226b1eb44e8155c646a2eb5442243b5c7b0fc3555c
     keywords:
@@ -162,7 +175,7 @@ entries:
     version: 1.0.5
   - apiVersion: v2
     appVersion: 1.0.4
-    created: "2025-03-20T15:12:20.845130046Z"
+    created: "2025-03-20T15:45:04.121899729Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: ac815905d9c9dfd6430d1d875af15a2422732af8d179c9a95f308b3869daca3f
     keywords:
@@ -174,7 +187,7 @@ entries:
     version: 1.0.4
   - apiVersion: v2
     appVersion: 1.0.3
-    created: "2025-03-20T15:12:20.844768281Z"
+    created: "2025-03-20T15:45:04.121665752Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: e0ba2e3198cc974de8520a2250559078a4fb84267e2ec9935fa3bcc16310865b
     keywords:
@@ -186,7 +199,7 @@ entries:
     version: 1.0.3
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2025-03-20T15:12:20.844353978Z"
+    created: "2025-03-20T15:45:04.12143376Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 1d3385c0cd734ebd6657fe880cfd448674aa6e15f16daadee1ce883b4f0f5773
     keywords:
@@ -198,7 +211,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.0.1
-    created: "2025-03-20T15:12:20.843960625Z"
+    created: "2025-03-20T15:45:04.121189694Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: df40c720b0dbb5288aee5fa445c6db98755119883cf24f068f2e1fa44dac73e2
     keywords:
@@ -210,7 +223,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-03-20T15:12:20.843699738Z"
+    created: "2025-03-20T15:45:04.120888141Z"
     description: A Helm chart for testing purposes in Kubernetes
     digest: 6b7950b5c0b29cac32ae974e87db8bcb6476deff7e823c19091e69948ca79ef3
     keywords:
@@ -220,4 +233,4 @@ entries:
     urls:
     - https://jtaeuber.github.io/helm-charts/test-chart/test-chart-1.0.0.tgz
     version: 1.0.0
-generated: "2025-03-20T15:12:20.843295644Z"
+generated: "2025-03-20T15:45:04.120210658Z"
